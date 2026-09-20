@@ -1,5 +1,3 @@
-3. README.md para o GitHub
-Escrita
 Sistema de Gestão da Biblioteca Municipal
 1. Descrição
 O Sistema de Gestão da Biblioteca Municipal é uma aplicação desenvolvida em linguagem Java e executada através da consola.
